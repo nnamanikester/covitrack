@@ -1,0 +1,17 @@
+{
+  "name": "covitrack",
+  "displayName": "covitrack",
+  "expo": {
+    "name": "covitrack",
+    "slug": "covitrack",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
